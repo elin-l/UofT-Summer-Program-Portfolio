@@ -1,7 +1,7 @@
 # Portfolio-Document
 *re-updated*
 
-# My first portfolio at UofT Daniels Design Discovery Program!
+ My first portfolio at UofT Daniels Design Discovery Program!
 
 ### Projects:
   Park's geographical and historical information research
